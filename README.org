@@ -1,0 +1,10 @@
+* cl-ssdb
+
+CL-SSDB - A fast and robus Common Lisp client for SSDB
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/muyinliu/cl-ssdb.git   |
+| commit  | af221ae  |
+| systems | cl-ssdb |
+|---------+-------------------------------------------|
+
